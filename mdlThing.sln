@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mdlThing", "mdlThing.csproj", "{249C56F2-DEFD-49A8-883E-CF5FB0C053FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{249C56F2-DEFD-49A8-883E-CF5FB0C053FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{249C56F2-DEFD-49A8-883E-CF5FB0C053FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{249C56F2-DEFD-49A8-883E-CF5FB0C053FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{249C56F2-DEFD-49A8-883E-CF5FB0C053FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
